@@ -1,6 +1,8 @@
 # CursoManipulacaoDeArquivosEmC
 Repositório com questões do curso manipulação de arquivos em C.
 
+#### manipulandoarquivosc.hitcursos.com.br
+
 # Orientações:
 
 #### 1 - Os alunos devem fazer um fork do projeto.
