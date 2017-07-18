@@ -1,6 +1,6 @@
 Questão 2: Implemente um código que leia um arquivo .txt que contenha um item de uma lista de compras e a quantidade deste item. 
-           Se a soma de todos os itens der 10 itens, deve ser impresso "caixa para pequenas compras". 
-           Se tiver mais de dez itens, deve ser impresso "caixa para grandes compras".
+           -Se a soma de todos os itens for de ate dez itens, deve ser impresso "caixa para pequenas compras". 
+           -Se tiver mais de dez itens, deve ser impresso "caixa para grandes compras".
 
 Exemplo de entrada: detergente 2
                     guardanapo 3
