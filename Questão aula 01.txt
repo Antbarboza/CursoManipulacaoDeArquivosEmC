@@ -1,1 +1,23 @@
-Questao 1:
+Questão 1: Qual modo de abertura permite anexar mais dados em um arquivo que já contém informações?
+
+a)w
+b)r
+c)wb
+d)r+b
+e)a
+
+Resposta 1:
+
+Questão 2: Descreva porque é uma boa prática testar se o arquivo foi aberto antes de manipulá-lo?
+
+Resposta 2:
+
+Questão 3: Qual modo de abertura, das opções abaixo, permite escrever em modo binario e se o mesmo não existir, criar o arquivo?
+
+a)ab
+b)r
+c)w+
+d)a+
+e)w+b
+
+Resposta 3:
