@@ -2,7 +2,7 @@ Questão 3: Implemente um código que, no modo de abertura apropriado, irá rece
            Funcionalidade e instruções:
            - O primeiro número contém o tamanho da sequência e os demais serão a sequência de números fora de ordem.
            - A sequência fora de ordem deve ser mostrada na tela.
-           - Ao ordenar a sequencia deve ser mostrada na tela.
+           - Ao ordenar a sequência deve ser mostrada na tela.
            - A sequência ordenada deve ser gravada em outro arquivo .txt.
            
 Exemplo de entrada: 5 9 4 6 8 0
