@@ -1,1 +1,10 @@
-Questao 4:
+Questao 4: Desenvolva um código que ajude a gerir uma biblioteca, que cadastre livro, autor e quantidade do livro.
+           Deve ter as seguintes funcionalidades:
+           - Cadastro de livro.
+           - Pesquisa de livro.
+           - Listar livros cadastrados.
+           
+           Cada uma dessas opções deve estar em um menu ao iniciar a aplicação, e ter mais uma opção para encerrar o programa neste menu.
+           
+           *Dica: Utilizem struct para modelar o Livro.
+           
