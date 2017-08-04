@@ -1,7 +1,7 @@
 # CursoManipulacaoDeArquivosEmC
-Repositório do curso manipulação de arquivos em C, os alunos cadastrados na plataforma do hitcursos vão receber um convite para editar este repositório e conseguir enviar suas respostas.
+Repositório do curso manipulação de arquivos em C, os alunos cadastrados na plataforma do eadbox vão receber um convite para editar este repositório e conseguir enviar suas respostas.
 
-#### manipulandoarquivosc.hitcursos.com.br
+#### http://manipulandoarquivosemc.eadbox.com
 
 # Orientações:
 
