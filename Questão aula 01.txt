@@ -6,11 +6,11 @@ c)wb
 d)r+b
 e)a
 
-Resposta 1:
+Resposta 1: Letra e
 
 Questão 2: Descreva porque é uma boa prática testar se o arquivo foi aberto antes de manipulá-lo?
 
-Resposta 2:
+Resposta 2: Para que o usuário são prossiga achando que está funcionando corretamente.
 
 Questão 3: Qual modo de abertura, das opções abaixo, permite escrever em modo binario e se o mesmo não existir, criar o arquivo?
 
@@ -20,4 +20,4 @@ c)w+
 d)a+
 e)w+b
 
-Resposta 3:
+Resposta 3: Letra a
